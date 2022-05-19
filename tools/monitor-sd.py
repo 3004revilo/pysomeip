@@ -2,7 +2,7 @@
 import asyncio
 import socket
 import logging
-#Dieter testet alles
+
 import someip.config
 from someip.sd import ServiceDiscoveryProtocol as SDProto, ClientServiceListener
 
